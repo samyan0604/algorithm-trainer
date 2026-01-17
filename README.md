@@ -3,7 +3,11 @@ A web app that helps LeetCode focused students and interview candidates practise
 
 ### Tech Stack
 **Frontend** Vite + React + TypeScript
+
 **Backend** FastAPI (Python)
+
 **DB/Auth** Supabase (Postgres + Auth)
+
 **Queue** Redis + RQ (or Celery, but RQ is simpler)
+
 **AI** OpenAI API called from backend only
